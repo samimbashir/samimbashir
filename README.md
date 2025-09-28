@@ -24,7 +24,8 @@ I am a bioinformatician specializing in genomics, machine learning, and biologic
 ---
 
 ## 🔬 Research Interests
-
+- AI in HealthCare
+- AI in biosciences
 - Genomic data analysis and interpretation
 - Machine learning for biological datasets
 - Multi-omics integration
@@ -32,9 +33,6 @@ I am a bioinformatician specializing in genomics, machine learning, and biologic
 
 ---
 
-## 📚 Publications
-
-- _[Add your publications here or link to ORCID/Google Scholar]_
 
 ---
 
@@ -58,9 +56,9 @@ I am a bioinformatician specializing in genomics, machine learning, and biologic
 ## 🌐 Connect
 
 - [GitHub Pages Portfolio](https://samimbashir.github.io/)
-- [ORCID](#) _(add link)_
-- [Google Scholar](#) _(add link)_
-- Email: _(add contact email)_
+- [ORCID](#) _(https://orcid.org/0009-0006-7042-3668)-
+- [Google Scholar](#) _(https://scholar.google.com/citations?user=p6A6HRQAAAAJ&hl=en)_
+- Email: _(samimbashir678@gmail.com)_
 
 ---
 
